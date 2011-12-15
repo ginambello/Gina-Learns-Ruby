@@ -7,4 +7,4 @@ puts "This is fun."
 # puts 'I "said" do not touch this.'
 puts "This is my \"extra-credit\" assignment!"
 
-# The \ before tells Ruby that you intead it to print the following.
+# The \ before tells Ruby that you intend it to print the following.
