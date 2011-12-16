@@ -20,7 +20,7 @@ puts joke_evaluation
 puts hilarious
 
 w = "This is the left side of ... "
-e = "                               a string with a right side."
+e = "                                               a string with a right side."
 
 puts w + e
 
