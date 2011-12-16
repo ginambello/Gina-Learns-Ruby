@@ -1,6 +1,6 @@
 # This is my extra credit assignment 
 # I was assigned to calculate something
-# Here goes ...
+# Here goes ... 
 
 puts "I am calculating the amount of money I am going to spend for graduate school."
 
@@ -25,9 +25,9 @@ puts 1100.000 * 2.500 * 12.000
 puts "dollars of rent alone."
 
 puts "Let's add transportation costs of '$2,000' per year."
-puts 2000.00*2.50
+puts 2000.00 * 2.50
 puts "And add '$2,000' per year for books."
-puts 2000.00*2.50
+puts 2000.00 * 2.50
 puts "Lastly, add school supply costs of '$1,000' per year."
 puts 1000.00*2.50
 
